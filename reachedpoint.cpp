@@ -1,3 +1,4 @@
+c++ code for Reached nth point..
 class Solution {
 public:
 int nthPoint(int n) {
